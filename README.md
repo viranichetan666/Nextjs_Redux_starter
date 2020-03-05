@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+## Provides
+ - Next js Starter kit
+ - Redux 
+ - Redux Saga 
+ - Redux Persist
+ - Authentication Login/Logout using redux
+
 ## Getting Started
 
 First, run the development server:
